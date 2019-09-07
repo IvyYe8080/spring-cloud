@@ -8,7 +8,7 @@ spring:
     servlet:
       content-type: text/html
 server:
-  port: 8799
+  port: 8766
 
 feign:
   hystrix:
